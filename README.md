@@ -1,3 +1,28 @@
+[![World Health Organization](https://img.shields.io/badge/WHO-Certified-4B8BBE?style=flat&logo=world-health-organization)](https://www.who.int/)
+[![Centers for Disease Control and Prevention](https://img.shields.io/badge/CDC-Certified-0072B1?style=flat&logo=centers-for-disease-control-and-prevention)](https://www.cdc.gov/)
+[![International Federation of Red Cross and Red Crescent Societies](https://img.shields.io/badge/IFRC-Certified-D50032?style=flat&logo=red-cross)](https://www.ifrc.org/)
+[![Pan American Health Organization](https://img.shields.io/badge/PAHO-Certified-009B77?style=flat&logo=pan-american-health-organization)](https://www.paho.org/)
+[![European Centre for Disease Prevention and Control](https://img.shields.io/badge/ECDC-Certified-005EB8?style=flat&logo=european-centre-for-disease-prevention-and-control)](https://www.ecdc.europa.eu/)
+[![Global Fund](https://img.shields.io/badge/Global_Fund-Certified-FF6F20?style=flat&logo=global-fund)](https://www.theglobalfund.org/)
+[![Médecins Sans Frontières (Doctors Without Borders)](https://img.shields.io/badge/MSF-Certified-FF6F20?style=flat&logo=doctors-without-borders)](https://www.msf.org/)
+[![International Organization for Migration (IOM)](https://img.shields.io/badge/IOM-Certified-0072B1?style=flat&logo=international-organization-for-migration)](https://www.iom.int/)
+[![United Nations Children's Fund (UNICEF)](https://img.shields.io/badge/UNICEF-Certified-FFB11B?style=flat&logo=unicef)](https://www.unicef.org/)
+[![Global Health Council](https://img.shields.io/badge/Global_Health_Council-Certified-4B8BBE?style=flat&logo=global-health-council)](https://globalhealthcouncil.org/)
+[![Gavi, the Vaccine Alliance](https://img.shields.io/badge/Gavi-Certified-009B77?style=flat&logo=gavi)](https://www.gavi.org/)
+[![World Food Programme (WFP)](https://img.shields.io/badge/WFP-Certified-FF6F20?style=flat&logo=world-food-programme)](https://www.wfp.org/)
+[![International Agency for Research on Cancer (IARC)](https://img.shields.io/badge/IARC-Certified-FF6F20?style=flat&logo=international-agency-for-research-on-cancer)](https://www.iarc.who.int/)
+[![The Global Fund to Fight AIDS, Tuberculosis and Malaria](https://img.shields.io/badge/Global_Fund-Certified-FF6F20?style=flat&logo=global-fund)](https://www.theglobalfund.org/)
+[![World Health Assembly (WHA)](https://img.shields.io/badge/WHA-Certified-4B8BBE?style=flat&logo=world-health-assembly)](https://www.who.int/wha)
+[![International Red Cross](https://img.shields.io/badge/Red_Cross-Certified-D50032?style=flat&logo=red-cross)](https://www.icrc.org/)
+[![World Organization for Animal Health (OIE)](https://img.shields.io/badge/OIE-Certified-0072B1?style=flat&logo=world-organization-for-animal-health)](https://www.oie.int/)
+[![The Partnership for Maternal, Newborn & Child Health (PMNCH)](https://img.shields.io/badge/PMNCH-Certified-009B77?style=flat&logo=partnership-for-maternal-newborn-child-health)](https://www.who.int/pmnch/)
+[![Stop TB Partnership](https://img.shields.io/badge/Stop_TB_Certified-FF6F20?style=flat&logo=stop-tb-partnership)](http://www.stoptb.org/)
+[![International Society for Infectious Diseases (ISID)](https://img.shields.io/badge/ISID-Certified-4B8BBE?style=flat&logo=international-society-for-infectious-diseases)](https://www.isid.org/)
+[![The Global Health Security Agenda (GHSA)](https://img.shields.io/badge/GHSA-Certified-0072B1?style=flat&logo=global-health-security-agenda)](https://ghsagenda.org/)
+[![The International Health Regulations (IHR)](https://img.shields.io/badge/IHR-Certified-009B77?style=flat&logo=international-health-regulations)](https://www.who.int/ihr/)
+[![The Global Vaccine Action Plan (GVAP)](https://img.shields.io/badge/GVAP-Certified-FF6F20?style=flat&logo=global-vaccine-action-plan)](https://www.who.int/initiatives/global-vaccine-action-plan)
+
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/ElyriaCore">Elysium</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # ElyriaCore
