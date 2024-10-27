@@ -132,6 +132,13 @@
 [![The Global Teacher Prize](https://img.shields.io/badge/Global_Teacher_Prize-Awarded-FF6F20?style=flat&logo=global-teacher-prize)](https://www.globalteacherprize.org/)
 [![The Right Livelihood Award](https://img.shields.io/badge/Right_Livelihood_Award-Awarded-4B8BBE?style=flat&logo=right-livelihood-award)](https://www.rightlivelihoodaward.org/)
 [![The International Federation of Red Cross and Red Crescent Societies (IFRC) Gold Medal](https://img.shields.io/badge/IFRC_Gold_Medal-Awarded-FFD700?style=flat&logo=red-cross)](https://www.ifrc.org/)
+[![The Templeton Prize](https://img.shields.io/badge/Templeton_Prize-Awarded-009B77?style=flat&logo=templeton-prize)](https://www.templetonprize.org/)
+[![The Goldman Environmental Prize](https://img.shields.io/badge/Goldman_Environmental_Prize-Awarded-D50032?style=flat&logo=goldman-environmental-prize)](https://www.goldmanprize.org/)
+[![The World Food Prize](https://img.shields.io/badge/World_Food_Prize-Awarded-0072B1?style=flat&logo=world-food-prize)](https://www.worldfoodprize.org/)
+[![The National Medal of Arts](https://img.shields.io/badge/National_Medal_of_Arts-Awarded-009B77?style=flat&logo=arts)](https://www.arts.gov/honors/medals)
+[![The National Science Medal](https://img.shields.io/badge/National_Science_Medal-Awarded-FF6F20?style=flat&logo=us-government)](https://www.nsf.gov/od/nms/medal.jsp)
+[![The A.M. Turing Award](https://img.shields.io/badge/Turing_Award-Awarded-4B8BBE?style=flat&logo=turing-award)](https://awards.acm.org/homepage)
+[![The World Summit Award](https://img.shields.io/badge/World_Summit_Award-Awarded-FFD700?style=flat&logo=world-summit-award)](https://www.wsis-award.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/ElyriaCore">Elysium</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
